@@ -1,1 +1,2 @@
 # stockEvalutor
+`pip install openpyxl`
